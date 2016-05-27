@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Nicole/ClionProjects/web_application_dev/BubbleSort.cpp
+BubbleSort.h
+/Users/Nicole/ClionProjects/web_application_dev/BubbleSort.h
+
+/Users/Nicole/ClionProjects/web_application_dev/BubbleSort.h
+mpi.h
+-
+
+/Users/Nicole/ClionProjects/web_application_dev/main.cpp
+time.h
+-
+stdlib.h
+-
+BubbleSort.h
+/Users/Nicole/ClionProjects/web_application_dev/BubbleSort.h
+
+/usr/local/Cellar/mpich/3.2/include/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/local/Cellar/mpich/3.2/include/mpio.h
+mpicxx.h
+/usr/local/Cellar/mpich/3.2/include/mpicxx.h
+
+/usr/local/Cellar/mpich/3.2/include/mpicxx.h
+stdio.h
+-
+
+/usr/local/Cellar/mpich/3.2/include/mpio.h
+mpi.h
+/usr/local/Cellar/mpich/3.2/include/mpi.h
+
