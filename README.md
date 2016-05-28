@@ -1,6 +1,8 @@
 # 219351_homework
 
+## Homework 2
 
+Build with `cmake && make`.
 
 ##Homework 5
 
